@@ -36,11 +36,11 @@ Interface intuitiva para navegação entre os módulos:
 
 ## Equipe
 
-**Ana Nóbrega
-**Lorena Rodrigues
-**Maurício Gonçalves
-**Vladimir Lima
-**Wesley Sousa
+- **Ana Nóbrega
+- **Lorena Rodrigues
+- **Maurício Gonçalves
+- **Vladimir Lima
+- **Wesley Sousa
 
 
 ## Licença
