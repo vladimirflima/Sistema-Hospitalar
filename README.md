@@ -34,6 +34,14 @@ Interface intuitiva para navegação entre os módulos:
  **Inicie o servidor web:**
   npm run dev
 
+## Equipe
+
+**Ana Nóbrega
+**Lorena Rodrigues
+**Maurício Gonçalves
+**Vladimir Lima
+**Wesley Sousa
+
 
 ## Licença
 
